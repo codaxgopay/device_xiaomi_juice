@@ -137,9 +137,10 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     android.hardware.power-service-qti
 
-# Init
+# Ramdisk
 PRODUCT_PACKAGES += \
-    init.mi_thermald.rc
+    init.mi_thermald.rc \
+    init.performance_level.rc
 
 # Overlays
 DEVICE_PACKAGE_OVERLAYS += \
