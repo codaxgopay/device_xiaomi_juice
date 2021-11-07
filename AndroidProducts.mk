@@ -1,13 +1,13 @@
 #
-# Copyright (C) 2021 The LineageOS Project
+# Copyright (C) 2021 The FrostProject
 #
 # SPDX-License-Identifier: Apache-2.0
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/banana_juice.mk
+    $(LOCAL_DIR)/conquer_juice.mk
 
 COMMON_LUNCH_CHOICES := \
-    banana_juice-user \
-    banana_juice-userdebug \
-    banana_juice-eng
+    conquer_juice-user \
+    conquer_juice-userdebug \
+    conquer_juice-eng
