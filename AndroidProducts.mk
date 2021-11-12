@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/ppui_juice.mk
+    $(LOCAL_DIR)/potato_juice.mk
 
 COMMON_LUNCH_CHOICES := \
-    ppui_juice-user \
-    ppui_juice-userdebug \
-    ppui_juice-eng
+    potato_juice-user \
+    potato_juice-userdebug \
+    potato_juice-eng
